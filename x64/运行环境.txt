@@ -1,0 +1,11 @@
+需要window 7 x64位环境
+安装win 7系统
+
+
+安装Microsoft Visual C++ 2012 Redistributable Package
+下载地址http://www.microsoft.com/en-us/download/details.aspx?id=30679
+
+
+安装 MATLAB Runtime
+选择R2014a (8.3) window 64位
+下载地址http://ssd.mathworks.com/supportfiles/downloads/R2014a/deployment_files/R2014a/installers/win64/MCR_R2014a_win64_installer.exe

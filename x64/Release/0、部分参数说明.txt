@@ -1,0 +1,9 @@
+alpha_value //过滤背景中线状物体 默认0.2
+max_status_size //与连续发送异常间隔和检测异常噪音相关（越大，间隔越长，噪音越低）
+detect_size//c++部分 每隔多少次检测，统计一次平均异常概率，再决定是否发送异常（排除噪音）
+sender_rate//当异常几率大于等于sender_rate发送异常图片
+send_to_server//为1则发送异常到服务器，否则不发送
+medianBlur_ksize//中值滤波 ksize参数 白天5，晚上3
+draw//是否显示图形界面
+showResult//是否显示处理后的画面（夜间模式）
+lic//证书
